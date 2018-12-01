@@ -1,1 +1,1 @@
-# advent-of-code-2016
+# Repository for my collection of tries for Advent of Code
